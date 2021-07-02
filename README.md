@@ -3,8 +3,8 @@
 * [Crunch](https://github.com/chrissimpkins/Crunch/blob/master/docs/EXECUTABLE.md)
 * Pngcrunch
 * Gifsicle (might also need giflossy)
-* Jpegtran
-* Jpegoptim
+* Jpegtran (libjpeg-progs)
+* Jpegoptim 
 
 # Running
 ```
